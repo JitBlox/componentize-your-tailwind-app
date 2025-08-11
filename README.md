@@ -1,5 +1,7 @@
 # Componentize your Tailwind app - final
 
+This is the end result of the JitBlox guide to easily integrating a Tailwind UI block into your dynamic, component-based web app without coding. Follow the guide [here](https://www.jitblox.com/blog/use-tailwind-css-in-your-component-based-web-app).
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
 
 ## Development server
@@ -57,3 +59,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
